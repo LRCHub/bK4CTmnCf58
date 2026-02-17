@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "風吹けば恋",
+  "base_artist": "高木さん(CV:高橋李依)",
+  "createdAt": "2026-02-17T10:48:56.011511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風吹けば恋 (チャットモンチー)",
+      "artist": "Mutsuhiro Nishiwaki",
+      "has_synced": false,
+      "path": "select/01_風吹けば恋_(チャットモンチー)_Mutsuhiro_Nishiwaki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風吹けば恋",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/02_風吹けば恋_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風吹けば恋",
+      "artist": "Chatmonchy",
+      "has_synced": true,
+      "path": "select/03_風吹けば恋_Chatmonchy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "風吹けば恋",
+      "artist": "Chatmonchy",
+      "has_synced": true,
+      "path": "select/04_風吹けば恋_Chatmonchy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "5 風吹けば恋",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/05_5_風吹けば恋_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風吹けば恋",
+      "artist": "高木さん(高橋李依)",
+      "has_synced": false,
+      "path": "select/pl_01_風吹けば恋_高木さん(高橋李依).txt"
+    }
+  ]
+}
